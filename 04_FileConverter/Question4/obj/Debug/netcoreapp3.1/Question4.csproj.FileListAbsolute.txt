@@ -1,0 +1,13 @@
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.exe
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.deps.json
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.json
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.runtimeconfig.dev.json
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.dll
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\bin\Debug\netcoreapp3.1\Question4.pdb
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.csproj.AssemblyReference.cache
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfoInputs.cache
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.AssemblyInfo.cs
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.csproj.CoreCompileInputs.cache
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.dll
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.pdb
+C:\Users\onurcan.ArkV\source\repos\Question4\Question4\obj\Debug\netcoreapp3.1\Question4.genruntimeconfig.cache
